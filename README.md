@@ -6,7 +6,7 @@
 A sample website exploring html classes and css stylesheets using divs using boring information!
 
 ## Setup
-Clone this repository.  Open index.html in your favorite browser.  Grab a cupcake.
+Clone this repository.  Open index.html in your favorite browser.  Get bored.
 
 ## Technology Used
 * html
